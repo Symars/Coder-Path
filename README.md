@@ -21,7 +21,7 @@
 * [站长之家](http://www.chinaz.com/) 能在上面读到很多互联网公司成败的原因
 
 ## 知名博客
-* [风雪之隅](http://www.laruence.com/) 鸟哥-亚洲第一的程序员!!!
+* [风雪之隅](http://www.laruence.com/)
 * [月光博客](http://www.williamlong.info/)
 * [SEO每日一贴](http://www.seozac.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/)
@@ -51,4 +51,4 @@
 ### 英语
 * [沪江英语](http://www.hjenglish.com/) 应该都知道的
 * [可可英语](http://www.kekenet.com/)
-* [美国之音-OVA](http://www.51voa.com/)
+* [美国之音-VOA](http://www.51voa.com/)

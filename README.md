@@ -20,6 +20,9 @@
 * [solidot](http://www.solidot.org/) 反正看就对了
 * [站长之家](http://www.chinaz.com/) 能在上面读到很多互联网公司成败的原因
 
+## VR
+*[黑匣子](http://www.heix.cn/)
+
 ## 知名博客
 * [风雪之隅](http://www.laruence.com/)
 * [月光博客](http://www.williamlong.info/)

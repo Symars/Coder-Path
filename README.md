@@ -55,3 +55,16 @@
 * [沪江英语](http://www.hjenglish.com/) 应该都知道的
 * [可可英语](http://www.kekenet.com/)
 * [美国之音-VOA](http://www.51voa.com/)
+
+### 适合编程的等宽字体
+* Consolas --这款不错
+* Courier
+* Courier New
+* DFKai-SB
+* Fixedsys
+* Lucida Console --强烈推荐
+* Lucida Sans Typewriter
+* Miriam Fixed
+* Rod
+* Terminal
+* Simplified Arabic Fixed

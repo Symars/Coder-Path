@@ -62,8 +62,8 @@
 * Courier New
 * DFKai-SB
 * Fixedsys
-* Lucida Console --强烈推荐
-* Lucida Sans Typewriter
+* Lucida Console --强烈推荐 窄行间距
+* Lucida Sans Typewriter --强烈推进 宽行间距
 * Miriam Fixed
 * Rod
 * Terminal

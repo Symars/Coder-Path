@@ -13,12 +13,14 @@
 * [51CTO](http://www.51cto.com/)
 * [CSDN](http://www.csdn.net/)
 * [v2ex](https://www.v2ex.com) 文艺开发屌丝必备
+* [简书](http://www.jianshu.com/) 简单文艺的社区
 * [掘金](http://gold.xitu.io/welcome) 感觉比推酷搞的好饿
 * [推酷](http://www.tuicool.com/) 综合订阅
 
 ### 互联网
 * [solidot](http://www.solidot.org/) 反正看就对了
 * [站长之家](http://www.chinaz.com/) 能在上面读到很多互联网公司成败的原因
+* [中关村在线](http://www.zol.com.cn/) 硬件设备资料库
 
 ## VR
 * [黑匣子](http://www.heix.cn/)

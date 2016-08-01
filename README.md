@@ -42,6 +42,8 @@
 * [coursera](https://www.coursera.org)
 
 ### 国内编程
+* [w3cschool](http://www.w3school.com.cn/) 前端新手必备
+* [菜鸟教程](http://www.runoob.com/) 菜鸟必备
 * [极客学院](http://www.jikexueyuan.com/) 它自己吹牛是"中国最大IT职业在线教育平台"，但我觉得这个违反广告法。 
 * [慕课网](http://www.imooc.com/) 国产 mooc 课还不错，不知道后劲如何
 * [学堂在线](http://www.xuetangx.com/) 国产相对正宗的 MOOC。好多名牌院校的课程

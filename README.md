@@ -13,7 +13,7 @@
 * [51CTO](http://www.51cto.com/)
 * [CSDN](http://www.csdn.net/)
 * [v2ex](https://www.v2ex.com) 文艺开发屌丝必备
-* [简书](http://www.jianshu.com/) 简单文艺的社区
+* [简书](http://www.jianshu.com/) 文艺小清新
 * [掘金](http://gold.xitu.io/welcome) 感觉比推酷搞的好饿
 * [推酷](http://www.tuicool.com/) 综合订阅
 

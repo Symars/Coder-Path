@@ -22,10 +22,11 @@
 * [站长之家](http://www.chinaz.com/) 能在上面读到很多互联网公司成败的原因
 * [中关村在线](http://www.zol.com.cn/) 硬件设备资料库
 
-### 项目管理
+### 代码库
 * [github](https://www.github.com)
 * [码云](http://git.oschina.net/)
 * [码市](https://coding.net/)
+* [SourceForge](https://sourceforge.net/)
 
 ### VR
 * [黑匣子](http://www.heix.cn/)

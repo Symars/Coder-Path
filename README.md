@@ -5,6 +5,10 @@
 * [segmentfault](https://segmentfault.com/) 大牛可以吹牛，小菜可以瞎问的地方
 * [stackoverflow](http://stackoverflow.com/) 不会用stack overflow 找解决方案的程序员，只能只是小青蛙。
 
+## 思维导图
+* [processon](https://www.processon.com/)
+* [百度脑图](http://naotu.baidu.com)
+
 ## 资讯平台
 
 ### 技术

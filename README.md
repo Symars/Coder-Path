@@ -4,8 +4,6 @@
 
 * 在原作者[CodeCatalyst](https://github.com/CodeCatalyst/mou-theme-solarized/blob/master/CSS/Solarized%20(Dark).css)主题的基础上修改了配色
 
-## [Doug Lea](http://gee.cs.oswego.edu/)
-
 ## 问答社区
 * [知乎](https://www.zhihu.com/) 文艺屌丝必备
 * [segmentfault](https://segmentfault.com/) 大牛可以吹牛，小菜可以瞎问的地方
@@ -42,6 +40,7 @@
 * [黑匣子](http://www.heix.cn/)
 
 ## 知名博客
+* [Doug Lea](http://gee.cs.oswego.edu/)
 * [风雪之隅](http://www.laruence.com/)
 * [月光博客](http://www.williamlong.info/)
 * [SEO每日一贴](http://www.seozac.com/)

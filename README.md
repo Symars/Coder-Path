@@ -1,6 +1,6 @@
 # Coder-Path
 
-## [Markown黑色主题](https://github.com/Symars/Coder-Path/blob/master/markdown-theme.css)
+## [MarkDown黑色主题](https://github.com/Symars/Coder-Path/blob/master/markdown-theme.css)
 
 * 在原作者[CodeCatalyst](https://github.com/CodeCatalyst/mou-theme-solarized/blob/master/CSS/Solarized%20(Dark).css)主题的基础上修改了配色
 
